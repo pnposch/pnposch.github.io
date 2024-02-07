@@ -28,7 +28,7 @@ concurrency:
 
 jobs:
   # Build job
- build:
+  build:
     name: Build Jekyll
     runs-on: ubuntu-latest
     steps:
