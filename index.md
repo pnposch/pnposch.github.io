@@ -1,9 +1,5 @@
 ---
+layout: home
+title: Welcome
+subtitle: This is where I will tell my friends way too much about me
 ---
-
-Welcome to My Home Page
-
-{% assign date = '2020-04-13T10:20:00Z' %}
-
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
